@@ -1,0 +1,1 @@
+Ejemplos simples basados en el curso de [masterylearningmastery](https://s3.amazonaws.com/MLMastery/deep_learning_time_series_forecasting_mini_course.pdf?__s=fpiywhz9t7gcden2rdzn#page9)
